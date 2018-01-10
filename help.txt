@@ -1,0 +1,7 @@
+rq worker
+
+empty queue:
+/path/to/rq empty queue_name
+
+pip install rq-dashboard
+rq-dashboard
